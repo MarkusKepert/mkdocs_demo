@@ -1,0 +1,7 @@
+site_name: Documentation Demo for Static rendered HTML Doc
+nav:
+  - index.md
+  - getting_started.md
+  - demo_project.md
+  - add/imprint.md
+theme: material
