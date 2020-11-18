@@ -3,5 +3,6 @@ nav:
   - index.md
   - getting_started.md
   - demo_project.md
+  - MarkdownExamples.md
   - add/imprint.md
 theme: material
