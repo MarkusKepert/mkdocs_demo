@@ -11,5 +11,12 @@
 - create docs folder and site structure (each site is md file)
 
 # Test view
+```
+mkdocs serve
+```
+
 
 # Build
+```
+mkdocs build
+```

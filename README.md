@@ -10,4 +10,11 @@ You can use this as a draft for your online documentation process
 
 - install mkdocs as admin:
  python -m pip install mkdocs
-  python -m pip install mkdocs-material
+ python -m pip install mkdocs-material
+
+
+# Run 
+mkdocs serve
+
+# Create delivery pack
+mkdocs build
