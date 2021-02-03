@@ -19,3 +19,4 @@ markdown_extensions:
   - admonition
   - pymdownx.superfences
   - pymdownx.details
+dev_addr: '0.0.0.0:8000'

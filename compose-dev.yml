@@ -5,6 +5,6 @@ services:
       context: ./container
       dockerfile: Dockerfile-dev
     ports:
-      - 8080:8080
+      - 8080:8000
     volumes:
       - ./container/mkdocs/:/mkdocs
